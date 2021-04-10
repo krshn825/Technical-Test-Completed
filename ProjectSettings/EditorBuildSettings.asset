@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Bridge Game/Scenes/MainMenu.unity
+    guid: bf4c0be2968e4374680956f2bcea2249
+  - enabled: 1
+    path: Assets/Bridge Game/Scenes/StorePage.unity
+    guid: 75682bbc089f97b46a07acad3a4234cd
+  - enabled: 1
+    path: Assets/Bridge Game/Scenes/LevelMenu.unity
+    guid: c513e3fc7222ed6468a2e77d98563c6a
+  - enabled: 1
+    path: Assets/Bridge Game/Scenes/Level1.unity
+    guid: 7422675d82139634e9681db39de33daa
+  - enabled: 1
+    path: Assets/Bridge Game/Scenes/Level2.unity
+    guid: 47aa5028ccab44a48b86745c39e799be
+  - enabled: 1
+    path: Assets/Bridge Game/Scenes/Level3.unity
+    guid: fdbe754d2fdd8d84a84d3a2efedb0584
+  - enabled: 1
+    path: Assets/Bridge Game/Scenes/Level4.unity
+    guid: 41d3b1e28a64b6149ae2cc3577fb9aba
+  - enabled: 1
+    path: Assets/Bridge Game/Scenes/Level5.unity
+    guid: f28bc2e7315849d42bf58bfe523e1687
+  m_configObjects: {}
